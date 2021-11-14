@@ -1,6 +1,3 @@
 # demo
 
-
-wassuppp
-
-some decp
+This is my blog page
